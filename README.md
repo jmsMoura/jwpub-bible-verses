@@ -51,7 +51,7 @@ The plugin recognizes various Bible reference formats:
 In the plugin settings, you can configure:
 
 ### Language Settings
-- **Language Code**: Set the language for Bible verses (e.g., "E" for English, "PT" for Portuguese)
+- **Language Code**: Set the language for Bible verses (e.g., "E" for English, "T" for Portuguese)
 - **Fetch Book Names**: Download book names in the selected language from JW.org
 
 ### Insertion Settings
