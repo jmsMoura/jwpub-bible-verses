@@ -21,16 +21,6 @@ A plugin for Obsidian that allows you to insert and keep up-to-date Bible verses
 2. Extract the ZIP file to your Obsidian plugins folder: `<vault>/.obsidian/plugins/`
 3. Enable the "JW Bible Verses" plugin in Obsidian Settings > Community Plugins
 
-### Installation via BRAT (Beta Reviewer's Auto-update Tool)
-
-If you have the [BRAT](https://github.com/TfTHacker/obsidian42-brat) plugin installed:
-
-1. Open BRAT settings
-2. Add Beta Plugin
-3. Enter the repository URL: `https://github.com/yourusername/jwpub-bible-verses`
-4. Click "Add Plugin"
-5. Enable the "JW Bible Verses" plugin in Obsidian Settings > Community Plugins
-
 ## Usage
 
 ### Inserting Bible Verses
